@@ -1,10 +1,4 @@
-/*
-************************************************************** 
-* Assignment(Sheet_5)   	                                 
-* created by  : Ahmed Adel Sakr                       
-**************************************************************
-*/
-/* 
+
     1) You have an array of 100 element contain all number from 0 t0 100 except
       one number, write c function to find the missed number (try in O(n)).
 */
