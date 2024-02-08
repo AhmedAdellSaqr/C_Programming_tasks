@@ -1,9 +1,4 @@
- /*
-************************************************************** 
-* Assignment(Sheet_3)   	                                 *
-* created by  : Abdelrahman Muhammed Kamel                   *
-**************************************************************
-*/
+
 /* 1- Write a C function to return the index of LAST occurrence of a number in a
    given array. Array index start from 0. If the item is not in the list return -1 
 */
