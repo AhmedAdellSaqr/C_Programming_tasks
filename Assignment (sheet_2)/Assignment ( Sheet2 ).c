@@ -1,9 +1,4 @@
-/*
-************************************************************** 
-* Assignment(Sheet_2)   	                                 *
-* created by  : Ahmed Adel Sakr                              *
-**************************************************************
-*/
+
 //1
 //Read redius from user and cal the are and Circumference
 #include <stdio.h>
