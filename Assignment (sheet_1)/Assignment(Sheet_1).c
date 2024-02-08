@@ -1,9 +1,4 @@
-/*
-************************************************************** 
-* Assignment(Sheet_1)   	                                 *
-* created by  : Ahmed Adel Sakr                   *
-**************************************************************
-*/
+
 //(1)
 //take 2 number from user and sum numbers between them
 #include <stdio.h>
