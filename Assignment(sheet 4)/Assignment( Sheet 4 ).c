@@ -1,10 +1,4 @@
-/*
-************************************************************** 
-* Assignment(Sheet_4)   	                                 *
-* created by  : Ahmed Adel Sakr
-**************************************************************
-*/
-/*
+
    1- Write c function to reverse string "Ahmed salem"-> melas demhA".
 */
 #include <stdio.h>
